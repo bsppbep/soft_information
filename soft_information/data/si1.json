@@ -1,0 +1,38 @@
+[
+    {
+        "SI_type": "position",
+        "features": {
+            "idx": 0,
+            "measured_x": 0,
+            "measured_y": 0,
+            "std":0.1
+        }
+    },
+    {
+        "SI_type": "position",
+        "features": {
+            "idx": 2,
+            "measured_x": 2,
+            "measured_y": 2,
+            "std":0.1
+        }
+    },
+    {
+        "SI_type": "distance",
+        "features": {
+            "idx_a":0,
+            "idx_b":1,
+            "measured_dist":1.414,
+            "std":1.0
+        }
+    },
+    {
+        "SI_type": "distance",
+        "features": {
+            "idx_a":1,
+            "idx_b":2,
+            "measured_dist":1.414,
+            "std":1.0
+        }
+    }
+]
